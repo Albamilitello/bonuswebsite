@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "titolo": "Sconto 20% Amazon Prime",
+    "descrizione": "Usa il codice al checkout per ottenere il 20% di sconto sul primo anno di Amazon Prime.",
+    "link": "https://www.amazon.it/prime",
+    "codice": "PRIME20",
+    "scadenza": "2026-04-30"
+  },
+  {
+    "id": 2,
+    "titolo": "Bonus Trasporti 60€",
+    "descrizione": "Rimborso fino a 60€ sugli abbonamenti di trasporto pubblico locale, regionale e interregionale.",
+    "link": "https://www.bonustrasporti.lavoro.gov.it",
+    "codice": null,
+    "scadenza": "2026-12-31"
+  },
+  {
+    "id": 3,
+    "titolo": "Sconto 15% Zalando",
+    "descrizione": "Valido su tutto il catalogo Zalando, esclusi articoli già in promozione. Minimo d'ordine 50€.",
+    "link": "https://www.zalando.it",
+    "codice": "ZALANDO15",
+    "scadenza": "2026-03-31"
+  },
+  {
+    "id": 4,
+    "titolo": "Bonus Cultura 500€",
+    "descrizione": "Carta della cultura per i nati nel 2007. Utilizzabile per libri, cinema, musica, teatro e musei.",
+    "link": "https://www.cartadellacultura.gov.it",
+    "codice": null,
+    "scadenza": "2026-06-30"
+  },
+  {
+    "id": 5,
+    "titolo": "Sconto 10% Nike",
+    "descrizione": "Codice valido su nike.com per scarpe e abbigliamento, anche su nuove collezioni.",
+    "link": null,
+    "codice": "NIKE10IT",
+    "scadenza": "2026-05-15"
+  },
+  {
+    "id": 6,
+    "titolo": "Cashback 5% Satispay",
+    "descrizione": "Ricevi il 5% di cashback su tutti i pagamenti effettuati con Satispay nei negozi fisici.",
+    "link": "https://www.satispay.com/cashback",
+    "codice": null,
+    "scadenza": "2026-03-20"
+  }
+]
